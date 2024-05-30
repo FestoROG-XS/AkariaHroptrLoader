@@ -12,7 +12,7 @@ Don't, yet. (But you'd be able to use it with TeknoParrotUI or something.)
 Don't ask for help lol because Im also a noob
 
 ## Special thanks
- - [WanganArcadeLoader](https://github.com/BroGamer4256/WanganArcadeLoader) - WMMT6RR Res Patch
+ - [WanganArcadeLoader](https://github.com/BroGamer4256/WanganArcadeLoader) - Thx BroGamer and his w6w Res Patch~
  - [The Wangan Midnight Emulation Discord](https://discord.gg/r3nbd4x) - Teach me and make me learn lots of things
  - also All member in Project Asakura (Kitsu, dmr, more and more....)
  - The members who help me a lots of things in CHN (PTO·D クロキ＠Ｒ RINA ALEX TLA BOOKQ BlueCat YH ......)
